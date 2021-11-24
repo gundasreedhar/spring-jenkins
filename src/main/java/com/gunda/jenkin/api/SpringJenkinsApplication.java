@@ -11,7 +11,7 @@ public class SpringJenkinsApplication {
 	
 	public static org.slf4j.Logger logger = LoggerFactory.getLogger(SpringJenkinsApplication.class);
 	
-	public void init()
+	public void intt()
 	{
 		logger.info("application started...");
 	}
